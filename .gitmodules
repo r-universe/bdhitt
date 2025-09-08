@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "binGroup2"]
 	path = binGroup2
-	url = https://github.com/cran/binGroup2
+	url = https://github.com/bdhitt/bingroup2
